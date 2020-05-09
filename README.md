@@ -1,7 +1,7 @@
 <p align="center">
- <img height="50%" widht="50%" src="g19616.png" />
+ <img height="100px" width="100px" src="g19616.png" />
  </p>
-This webApp extracts the text from an image :heart_eyes:
+This webApp extracts text from an image :heart_eyes:
 
  <h3> Tech stack used: :octocat: </h3>
 
