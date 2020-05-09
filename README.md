@@ -1,5 +1,5 @@
 <p align="center">
- <img src="g19616.png" />
+ <img height="75%" widht="75%" src="g19616.png" />
  </p>
 This webApp extracts the text from an image :heart_eyes:
 
