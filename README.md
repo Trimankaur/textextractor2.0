@@ -1,4 +1,6 @@
-# textextractor2.0 :sparkles:
+<p align="center">
+ <img src="g19616.png" />
+ </p>
 This webApp extracts the text from an image :heart_eyes:
 
  <h3> Tech stack used: :octocat: </h3>
