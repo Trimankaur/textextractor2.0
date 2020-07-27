@@ -2,8 +2,18 @@
  <img height="300px" width="310px" src="g19616.png" />
  </p>
 This webApp extracts text from an image :heart_eyes:
+<div align="center">
 
- <h3> Tech stack used: :octocat: </h3>
+[![time tracker](https://wakatime.com/badge/github/Aman-zishan/DocScanner.svg)](https://wakatime.com/badge/github/Aman-zishan/DocScanner)
+[![Build Status](https://travis-ci.com/Aman-zishan/DocScanner.svg?branch=master)](https://travis-ci.com/Aman-zishan/DocScanner)
+[![GitHub issues](https://img.shields.io/github/issues/Aman-zishan/DocScanner.svg)](https://GitHub.com/Aman-zishan/DocScanner/issues/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Aman-zishan/DocScanner/issues)
+[![GitHub license](https://img.shields.io/github/license/Aman-zishan/DocScanner.svg)](https://github.com/Aman-zishan/DocScanner/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/Aman-zishan/DocScanner.svg?style=flat)](http://hits.dwyl.com/Aman-zishan/DocScanner)
+
+</div>
+
+<h3> Tech stack used: :octocat: </h3>
 
 <li>Visual Code Studio</li>
 <li>python:snake:</li>
