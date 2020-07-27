@@ -1,7 +1,7 @@
 <p align="center">
  <img height="300px" width="310px" src="g19616.png" />
  </p>
-This webApp extracts text from an image :heart_eyes:
+
 
 <div align="center">
 
