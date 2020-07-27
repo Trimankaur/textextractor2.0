@@ -2,14 +2,14 @@
  <img height="300px" width="310px" src="g19616.png" />
  </p>
 This webApp extracts text from an image :heart_eyes:
+
 <div align="center">
 
-[![time tracker](https://wakatime.com/badge/github/Aman-zishan/DocScanner.svg)](https://wakatime.com/badge/github/Aman-zishan/DocScanner)
-[![Build Status](https://travis-ci.com/Aman-zishan/DocScanner.svg?branch=master)](https://travis-ci.com/Aman-zishan/DocScanner)
-[![GitHub issues](https://img.shields.io/github/issues/Aman-zishan/DocScanner.svg)](https://GitHub.com/Aman-zishan/DocScanner/issues/)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Aman-zishan/DocScanner/issues)
-[![GitHub license](https://img.shields.io/github/license/Aman-zishan/DocScanner.svg)](https://github.com/Aman-zishan/DocScanner/blob/master/LICENSE)
-[![HitCount](http://hits.dwyl.com/Aman-zishan/DocScanner.svg?style=flat)](http://hits.dwyl.com/Aman-zishan/DocScanner)
+[![Build Status](https://travis-ci.com/Aman-zishan/textextractor2.0.svg?branch=master)](https://travis-ci.com/Aman-zishan/textextractor2.0)
+[![GitHub issues](https://img.shields.io/github/issues/Aman-zishan/textextractor2.0.svg)](https://GitHub.com/Aman-zishan/textextractor2.0/issues/)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Aman-zishan/textextractor2.0/issues)
+[![GitHub license](https://img.shields.io/github/license/Aman-zishan/textextractor2.0.svg)](https://github.com/Aman-zishan/textextractor2.0/blob/master/LICENSE)
+[![HitCount](http://hits.dwyl.com/Aman-zishan/textextractor2.0.svg?style=flat)](http://hits.dwyl.com/Aman-zishan/textextractor2.0)
 
 </div>
 
